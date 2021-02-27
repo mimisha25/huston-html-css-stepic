@@ -1,0 +1,31 @@
+
+ .content
+ {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+h1{
+  font-size: 32px;
+  padding-top: 1.5em;
+}
+
+.content figure
+{
+float: right;
+margin-left: 20px;
+font-style: italic;
+}
+
+h1, h2, h3{
+  font-family: sans-serif;
+}
+
+table {
+  border-collapse: separate;
+  border: 1px solid black;
+
+}
+th, td {
+  border: 1px solid black;
+}
